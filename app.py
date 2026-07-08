@@ -21,7 +21,7 @@ advanced_model = joblib.load("models/advanced_model.pkl")
 # ======================
 
 st.set_page_config(
-    page_title="AI Structural Health Assessment System",
+    page_title="Statistical Based Son-Reb Strenght Predictable Model",
     layout="wide"
 )
 
@@ -36,7 +36,7 @@ page = st.sidebar.selectbox(
         "📈UPV Only",
         "🔨SonReB",
         "🧱Material Aware",
-        "🤖Advanced AI",
+        "Random Forest Prediction",
         "📊 Analytics",
         "ℹ️ About"
     ]
@@ -339,10 +339,10 @@ r"f_c=-84.482+30.895V+0.834A+0.033W-0.694I-0.694C+5.521G"
 # ADVANCED AI
 # ======================
 
-elif page == "🤖Advanced AI":
+elif page == "Random Forest Prediction":
 
     st.title(
-        "Advanced AI Strength Prediction"
+        "Advanced  Strength Prediction"
     )
 
     upv = st.number_input(
