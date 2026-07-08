@@ -575,14 +575,14 @@ Developed for Concrete Strength Prediction and Structural Health Evaluation
 
 Akash Ganguly
 
-B.Tech Civil Engineering
+B.Tech In Civil Engineering
 
 
 &
 
 Utpal Kumar Singh 
 
-B.Tech Civil Engineering
+B.Tech In Civil Engineering
 
 Under the Guidance of 
 
