@@ -577,8 +577,8 @@ Akash Ganguly
 
 B.Tech Civil Engineering
 
-Final Year Project
 
+&
 
 Utpal Kumar Singh 
 
