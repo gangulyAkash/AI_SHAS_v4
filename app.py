@@ -52,10 +52,10 @@ if page == "🏠Home":
             "assets/logo.png",
             width=280
         )
-with col2:
-    st.title(
+    with col2:
+        st.title(
         "Statistical-Based Son-ReB Strength Prediction Model"
-    )
+        )
     st.markdown("""
 ### AI Based Strength Prediction of Concrete
 This system predicts concrete compressive strength
